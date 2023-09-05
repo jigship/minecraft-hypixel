@@ -1,0 +1,36 @@
+|------------------------------------------------------------------------------------------|
+|                                      WinMTR statistics                                   |
+|                       Host              -   %  | Sent | Recv | Best | Avrg | Wrst | Last |
+|------------------------------------------------|------|------|------|------|------|------|
+|                           192.168.97.20 -    1 |  390 |  388 |    1 |    4 |  124 |    1 |
+|                             10.135.21.1 -   36 |  166 |  107 |    0 |   32 |  353 |   29 |
+|                          10.180.255.157 -   48 |  138 |   72 |   17 |   28 |  146 |   23 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                           213.226.33.69 -   24 |  206 |  157 |   18 |   30 |  290 |   26 |
+|                 switch.balsha.spnet.net -   98 |   81 |    2 |    0 |   25 |   33 |   18 |
+|                           92.247.91.161 -   12 |  274 |  242 |   18 |   28 |  304 |   23 |
+|                           92.247.91.162 -   37 |  163 |  104 |   19 |   43 |  341 |   77 |
+|                          162.158.209.43 -    1 |  390 |  388 |   16 |   28 |  261 |   18 |
+|                          162.158.209.50 -    2 |  383 |  379 |   18 |   29 |  239 |   33 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   80 |    0 |    0 |    0 |    0 |    0 |
+|________________________________________________|______|______|______|______|______|______|
+   WinMTR v0.92 GPL V2 by Appnor MSP - Fully Managed Hosting & Cloud Provider
